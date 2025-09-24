@@ -1,5 +1,4 @@
 # Loan Prediction ML Project
-Project Description
 This project predicts whether a loan application will be approved or not using machine learning. The model is trained on a dataset of applicants’ personal and financial information and provides predictions based on input features.
 
 ## Dataset
