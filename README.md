@@ -2,10 +2,10 @@
 This project predicts whether a loan application will be approved or not using machine learning. The model is trained on a dataset of applicants’ personal and financial information and provides predictions based on input features.
 
 ## Dataset
--Rows: 614
--Columns: 13
--Key Features: Gender, Married, Dependents, Education, Self_Employed, ApplicantIncome, CoapplicantIncome, LoanAmount, Loan_Amount_Term, Credit_History, Property_Area
--Target: Loan_Status (Y/N)
+- Rows: 614
+- Columns: 13
+- Key Features: Gender, Married, Dependents, Education, Self_Employed, ApplicantIncome, CoapplicantIncome, LoanAmount, Loan_Amount_Term, Credit_History, Property_Area
+- Target: Loan_Status (Y/N)
 
 ## Data Preprocessing
 -Dropped missing values.
